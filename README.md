@@ -21,3 +21,8 @@ An always expanding list of software packages for spatial transcriptomics analys
 - [Squidpy](https://squidpy.readthedocs.io/en/latest/) - A tool for the analysis and visualization of spatial molecular data.
 - [Sopa](https://github.com/gustaveroussy/sopa) - Processing and analyses of image-based spatial omics.
 - [BANSKY](https://github.com/prabhakarlab/Banksy/) - A method for clustering spatial omics data.
+
+## Databases and Various Other
+- [STOmics DB](https://db.cngb.org/stomics/) - A comprehensive repository of literature and Datasets related to spatial transcriptomics topics, and provides convenient tools for Data analysis, search and visualization.
+- [CROST](https://ngdc.cncb.ac.cn/crost/home) - A Comprehensive Repository of Spatial Transcriptomics
+- [STIE](https://github.com/zhushijia/STIE) - Spatial Transcriptome Image and Expression integration enables single-cell level spatial transcriptomics data analysis
